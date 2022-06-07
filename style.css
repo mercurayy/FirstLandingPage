@@ -31,6 +31,51 @@ body {
   padding-right: 32px;
 }
 
+.content{
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url("./Images/sSjQzno.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.leftrail{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+.introimg{
+    display: flex;
+    height: 35%;
+    width: 35%;
+}
+.contentheading{
+    display: flex;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+.datte-bayo{ 
+    margin-top: 10px;
+  background-color: rgb(177, 148, 198); /* Green */
+  border: none;
+  color: white;
+  border-radius: 25px;
+  width: 30%;
+  padding: 10px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 a {
   color: white;
   text-decoration: none;
@@ -40,4 +85,8 @@ ul {
   padding-left: 16px;
   font-size: 24px;
   list-style-type: none;
+}
+
+img{
+    border-radius: 25px;
 }
