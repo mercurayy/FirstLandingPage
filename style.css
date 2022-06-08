@@ -5,7 +5,7 @@ body {
   margin: 0;
   background-image: url("./Images/sSjQzno.gif");
   background-repeat: repeat;
-  background-size:contain;
+  background-size: contain;
   background-color: orange;
 }
 
@@ -94,10 +94,10 @@ body {
 }
 
 .team {
-    background-image: url("./Images/sSjQzno.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #cccccc;
+  background-image: url("./Images/sSjQzno.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -106,7 +106,7 @@ body {
 }
 
 .teamtext {
-    font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif;
   padding: 12px;
   font-size: 30px;
   font-weight: 800;
@@ -129,7 +129,7 @@ body {
   row-gap: 12px;
 }
 .text {
-    font-family: "Times New Roman", Times, serif;
+  font-family: "Times New Roman", Times, serif;
   padding-top: 12px;
   padding-bottom: 12px;
 }
@@ -157,7 +157,7 @@ body {
   font-size: 24px;
 }
 .modal {
-    background-image: url("./Images/sSjQzno.gif");
+  background-image: url("./Images/sSjQzno.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #cccccc;
@@ -165,7 +165,7 @@ body {
   display: flex;
   margin: 60px;
   padding: 16px;
-  
+
   width: 55%;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.2);
