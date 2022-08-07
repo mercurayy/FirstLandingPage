@@ -2,7 +2,7 @@
 
 Live Preview:
 
-https://mercurayy.github.io/FirstLandingPage/
+https://sparsh-kamat.github.io/FirstLandingPage/
 
 Built using HTML and CSS 
 
